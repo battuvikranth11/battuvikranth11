@@ -18,8 +18,7 @@ I'm an aspiring Full Stack Developer based in **Eluru, Andhra Pradesh, India**, 
 
 - 🔭 Currently building full stack projects with the **MERN stack** and **Java Spring Boot**
 - 🌱 Always learning new technologies and improving my problem-solving skills
-- 🎓 B.Tech in Computer Science & Engineering
-- 📫 Reach me at **battuvikranth.11@gmail.com**
+- 🎓 B.Tech in Computer Science & Engineering (2027)
 
 ---
 
@@ -77,16 +76,6 @@ I'm an aspiring Full Stack Developer based in **Eluru, Andhra Pradesh, India**, 
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Score |
-| --- | --- | --- |
-| B.Tech in Computer Science & Engineering | Sri Vasavi Engineering College, Tadepalligudem | CGPA: 7.85/10 |
-| Intermediate (MPC) | Sri Chaitanya Jr. College, Eluru | 89.8% |
-| SSC (10th Standard) | Dr. KKR's Gowtham E.M. High School, Eluru | 100% (600/600) |
-
----
-
 ## 📜 Certifications
 
 - 🏅 **SAP Certified – Back-End Developer, ABAP Cloud**
@@ -105,6 +94,6 @@ I'm open to opportunities, collaborations, and conversations about web developme
 
 <div align="center">
 
-⭐ *Thanks for stopping by!* ⭐
+⭐ *Thanks for visiting!* ⭐
 
 </div>
