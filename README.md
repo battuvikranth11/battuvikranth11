@@ -18,39 +18,49 @@ I'm an aspiring Full Stack Developer based in **Eluru, Andhra Pradesh, India**, 
 
 - 🔭 Currently building full stack projects with the **MERN stack** and **Java Spring Boot**
 - 🌱 Always learning new technologies and improving my problem-solving skills
-- 🎓 B.Tech in Computer Science & Engineering (2027)
+- 🎓 B.Tech in Computer Science & Engineering
+- 📫 Reach me at **battuvikranth.11@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-</div>
-
-| Category | Skills |
-| --- | --- |
-| **Languages** | C (Intermediate), Java (Advanced), JavaScript, SQL, ABAP |
-| **Full Stack** | HTML, CSS, MongoDB, Express.js, React.js, Node.js (MERN Stack) |
-| **Core Concepts** | Data Structures & Algorithms (Advanced), Operating Systems, DBMS, Computer Networks |
-| **Tools & Platforms** | Git, GitHub, MySQL, VS Code, SAP ABAP Cloud |
-| **Soft Skills** | Problem-Solving, Team Collaboration, Technical Communication, Time Management |
 
 ---
 
@@ -76,6 +86,16 @@ I'm an aspiring Full Stack Developer based in **Eluru, Andhra Pradesh, India**, 
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Score |
+| --- | --- | --- |
+| B.Tech in Computer Science & Engineering | Sri Vasavi Engineering College, Tadepalligudem | CGPA: 7.85/10 |
+| Intermediate (MPC) | Sri Chaitanya Jr. College, Eluru | 89.8% |
+| SSC (10th Standard) | Dr. KKR's Gowtham E.M. High School, Eluru | 100% (600/600) |
+
+---
+
 ## 📜 Certifications
 
 - 🏅 **SAP Certified – Back-End Developer, ABAP Cloud**
@@ -94,6 +114,6 @@ I'm open to opportunities, collaborations, and conversations about web developme
 
 <div align="center">
 
-⭐ *Thanks for visiting!* ⭐
+⭐ *Thanks for stopping by!* ⭐
 
 </div>
